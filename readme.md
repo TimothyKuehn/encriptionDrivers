@@ -54,9 +54,3 @@ The program will prompt the user to enter these sizes at runtime.
 ## Cleanup
 - Buffers are dynamically allocated and freed after program completion to prevent memory leaks.
 - All threads are joined to ensure proper termination.
-
-## Notes
-- Ensure input and output files exist and are accessible with appropriate permissions.
-- Provide valid buffer sizes to avoid runtime errors.
-
-
